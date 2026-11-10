@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Khushi! 👋
 
-<!--
-**Khushi-1311/Khushi-1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning) Student.
 
-Here are some ideas to get you started:
+I'm interested in building practical solutions
+using AI, Python, Robotics and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Drone Development Project - this is completely my first physical project which include kk2.1.5 flight controller and flysky remote for controlling
+- CARRIE - College Enquiry Chatbot
+- Python & AI/ML Projects
+
+## 💻 Technical Skills
+- Python
+- C
+- Java
+- JavaScript
+- Node.js
+- Drone Technology
+- MongoDB
+- AI/ML
+
+## 🌱 Currently Learning
+- Machine Learning
+- Data Structures & Algorithms
+- Robotics and Embedded Systems
+- Drone Integration and autonomous navigation
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/khushi-pandey-743984285/
